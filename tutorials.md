@@ -12,3 +12,7 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.youtube.com/watch?v=NBCM_ZoWZo8
 - https://www.youtube.com/watch?v=Tv8mLrLtyxo
 - https://blog.bytebytego.com/p/data-movement-strategies-in-system
+- https://app.therundown.ai/guides/elevenlabs-audio-tags-guide
+- https://www.youtube.com/watch?v=mfgeiH_5cjw
+- https://www.decodingai.com/p/agentic-rag-vs-single-search-amazon-bedrock
+- https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know
