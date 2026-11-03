@@ -16,3 +16,8 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.youtube.com/watch?v=mfgeiH_5cjw
 - https://www.decodingai.com/p/agentic-rag-vs-single-search-amazon-bedrock
 - https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know
+- https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works
+- https://www.youtube.com/watch?v=F8rc-ULd4_4
+- https://www.chatprd.ai/how-i-ai/workflows/generate-novel-youtube-thumbnail-ideas-with-grok-and-figma
+- https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-branded-product-launch-video-with-claude-duet
+- https://www.chatprd.ai/how-i-ai/workflows/create-a-personalized-family-newspaper-with-meta-s-muse
