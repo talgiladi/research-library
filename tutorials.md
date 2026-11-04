@@ -21,3 +21,7 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.chatprd.ai/how-i-ai/workflows/generate-novel-youtube-thumbnail-ideas-with-grok-and-figma
 - https://www.chatprd.ai/how-i-ai/workflows/how-to-create-a-branded-product-launch-video-with-claude-duet
 - https://www.chatprd.ai/how-i-ai/workflows/create-a-personalized-family-newspaper-with-meta-s-muse
+- https://www.decodingai.com/p/claude-code-from-scratch-harness-engineering-roadmap
+- https://app.therundown.ai/guides/riverside-agents-interview-clips
+- https://app.therundown.ai/community/posts/c8f96f27-40f3-47fb-819e-e910e649ec5e
+- https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance
