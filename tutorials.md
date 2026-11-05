@@ -25,3 +25,7 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://app.therundown.ai/guides/riverside-agents-interview-clips
 - https://app.therundown.ai/community/posts/c8f96f27-40f3-47fb-819e-e910e649ec5e
 - https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance
+- https://app.therundown.ai/guides/runway-product-shoot-app-guide
+- https://app.therundown.ai/community/posts/b1391dcc-e979-4716-a1cb-5d8934db99a1
+- https://www.youtube.com/watch?v=YHKuUjicB3M
+- https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control
