@@ -29,3 +29,8 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://app.therundown.ai/community/posts/b1391dcc-e979-4716-a1cb-5d8934db99a1
 - https://www.youtube.com/watch?v=YHKuUjicB3M
 - https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control
+- https://app.therundown.ai/guides/compare-free-ai-tools
+- https://app.therundown.ai/community/posts/7bc1be34-8f6c-41c8-ad96-9b2038849451
+- https://www.youtube.com/watch?v=xq0eB8vxeqk
+- https://platform.claude.com/cookbook/managed-agents-cma-dreaming-with-a-dynamic-workflow
+- https://blog.bytebytego.com/p/the-hidden-work-behind-every-database
