@@ -34,3 +34,9 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.youtube.com/watch?v=xq0eB8vxeqk
 - https://platform.claude.com/cookbook/managed-agents-cma-dreaming-with-a-dynamic-workflow
 - https://blog.bytebytego.com/p/the-hidden-work-behind-every-database
+- https://app.therundown.ai/guides/use-ai-to-job-hunt
+- https://app.therundown.ai/community/posts/9faef48f-4cd9-499d-a758-11a478418ff9
+- https://www.youtube.com/watch?v=zq_sl87OCxU
+- https://www.youtube.com/watch?v=yC8vMywtUEA
+- https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration
+- https://huggingface.co/spaces/huggingface/moe-blogpost
