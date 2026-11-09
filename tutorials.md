@@ -40,3 +40,5 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.youtube.com/watch?v=yC8vMywtUEA
 - https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration
 - https://huggingface.co/spaces/huggingface/moe-blogpost
+- https://code.claude.com/docs/en/costs
+- https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme
