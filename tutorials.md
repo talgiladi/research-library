@@ -42,3 +42,8 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://huggingface.co/spaces/huggingface/moe-blogpost
 - https://code.claude.com/docs/en/costs
 - https://github.com/simonw/research/tree/main/sqlite-parse-number-c-vs-rust#readme
+- https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000
+- https://simonwillison.net/2026/Nov/9/details-summary/
+- https://platform.claude.com/docs/en/managed-agents/dreams
+- https://www.chatprd.ai/how-i-ai/workflows/build-native-mobile-app-ai-product-direction
+- https://www.chatprd.ai/how-i-ai/workflows/create-an-immersive-ai-language-tutor
