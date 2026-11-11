@@ -47,3 +47,8 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://platform.claude.com/docs/en/managed-agents/dreams
 - https://www.chatprd.ai/how-i-ai/workflows/build-native-mobile-app-ai-product-direction
 - https://www.chatprd.ai/how-i-ai/workflows/create-an-immersive-ai-language-tutor
+- https://www.decodingai.com/p/write-your-own-llm-judges
+- https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot
+- https://app.therundown.ai/guides/turn-a-two-hour-excel-slog-into-a-10-minute-task-with-claude-in-excel
+- https://dev.meta.ai/resources/blog/build-with-muse-ember
+- https://alexwang.ai/posts/reasoning-as-pathfinding/
