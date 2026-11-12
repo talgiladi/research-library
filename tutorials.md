@@ -52,3 +52,7 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://app.therundown.ai/guides/turn-a-two-hour-excel-slog-into-a-10-minute-task-with-claude-in-excel
 - https://dev.meta.ai/resources/blog/build-with-muse-ember
 - https://alexwang.ai/posts/reasoning-as-pathfinding/
+- https://app.therundown.ai/guides/chatgpt-chrome-extension-guide
+- https://claude.dev/blog/solving-code-review-at-anthropic/
+- https://youtu.be/r2Xhg1sMyxE
+- https://aistudio.google.com/learn/gemini-4-carbon-developer-guide
