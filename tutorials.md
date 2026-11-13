@@ -56,3 +56,9 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://claude.dev/blog/solving-code-review-at-anthropic/
 - https://youtu.be/r2Xhg1sMyxE
 - https://aistudio.google.com/learn/gemini-4-carbon-developer-guide
+- https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and
+- https://flaviocopes.com/grok-bot-1-0/
+- https://app.therundown.ai/guides/claim-and-set-up-your-business-on-chatgpt
+- https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen
+- https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/
+- https://building-a-coding-agent-from-scratch-course.decodingai.com/
