@@ -62,3 +62,6 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://aistudio.google.com/docs/whats-new-gemini-4-hydrogen
 - https://openrouter.ai/blog/insights/mcp-vs-cli-vs-skills/
 - https://building-a-coding-agent-from-scratch-course.decodingai.com/
+- https://app.therundown.ai/guides/claude-sheets-shared-tracker
+- https://support.claude.com/en/articles/18325154-use-claude-meetings
+- https://simonwillison.net/2026/Nov/14/datasette-llm/
