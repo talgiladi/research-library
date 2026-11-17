@@ -65,3 +65,4 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://app.therundown.ai/guides/claude-sheets-shared-tracker
 - https://support.claude.com/en/articles/18325154-use-claude-meetings
 - https://simonwillison.net/2026/Nov/14/datasette-llm/
+- https://claude.com/resources/articles/building-always-on-agents
