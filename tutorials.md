@@ -66,3 +66,5 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://support.claude.com/en/articles/18325154-use-claude-meetings
 - https://simonwillison.net/2026/Nov/14/datasette-llm/
 - https://claude.com/resources/articles/building-always-on-agents
+- https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/
+- https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm
