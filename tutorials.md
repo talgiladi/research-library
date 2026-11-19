@@ -68,3 +68,5 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://claude.com/resources/articles/building-always-on-agents
 - https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/
 - https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm
+- https://www.decodingai.com/p/build-durable-secure-long-running-agents
+- https://blog.bytebytego.com/p/evals-for-ai-engineers
