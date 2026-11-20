@@ -70,3 +70,5 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm
 - https://www.decodingai.com/p/build-durable-secure-long-running-agents
 - https://blog.bytebytego.com/p/evals-for-ai-engineers
+- https://www.decodingai.com/p/ship-agent-changes-safely
+- https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/
