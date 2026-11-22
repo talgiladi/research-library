@@ -72,3 +72,6 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://blog.bytebytego.com/p/evals-for-ai-engineers
 - https://www.decodingai.com/p/ship-agent-changes-safely
 - https://asubedi.com.np/blog/why-antigravity-eats-weekly-quota-fast/
+- https://www.youtube.com/watch?v=jVBlkOF8sHk
+- https://docs.ollama.com/integrations/opencode
+- https://anthropic-partners.skilljar.com/path/claude-fde
