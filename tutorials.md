@@ -75,3 +75,7 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.youtube.com/watch?v=jVBlkOF8sHk
 - https://docs.ollama.com/integrations/opencode
 - https://anthropic-partners.skilljar.com/path/claude-fde
+- https://vercel.com/i/triage-github-pull-requests-openai-decisions-api
+- https://hamel.dev/blog/posts/decision-model-evals/
+- https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
+- https://posthog.com/newsletter/decision-models
