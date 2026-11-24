@@ -79,3 +79,10 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://hamel.dev/blog/posts/decision-model-evals/
 - https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/
 - https://posthog.com/newsletter/decision-models
+- https://huggingface.co/blog/harness-adapters-at-scale
+- https://www.chatprd.ai/how-i-ai/workflows/create-an-automated-approval-digest-to-clear-your-bottlenecks
+- https://www.chatprd.ai/how-i-ai/workflows/improve-ai-agent-reliability-by-creating-narrowly-scoped-specialists
+- https://www.chatprd.ai/how-i-ai/workflows/automate-your-daily-lunch-order-with-a-personal-ai-agent
+- https://app.therundown.ai/guides/gemini-4-neon-whats-the-big-deal
+- https://aistudio.google.com/docs/whats-new-gemini-4-neon
+- https://www.youtube.com/watch?v=GF9LLcBoyJo
