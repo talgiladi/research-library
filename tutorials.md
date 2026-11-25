@@ -86,3 +86,5 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://app.therundown.ai/guides/gemini-4-neon-whats-the-big-deal
 - https://aistudio.google.com/docs/whats-new-gemini-4-neon
 - https://www.youtube.com/watch?v=GF9LLcBoyJo
+- https://www.nijho.lt/post/orchestrating-orchestrators/
+- https://code.claude.com/docs/en/claude-ship
