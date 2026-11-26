@@ -88,3 +88,6 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://www.youtube.com/watch?v=GF9LLcBoyJo
 - https://www.nijho.lt/post/orchestrating-orchestrators/
 - https://code.claude.com/docs/en/claude-ship
+- https://claude.dev/blog/the-work-after-you-open-a-pr/
+- https://www.youtube.com/watch?v=mU8WKII1gpk
+- https://app.therundown.ai/guides/microsoft-copilot-home-code-autopilot
