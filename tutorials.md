@@ -91,3 +91,5 @@ Tutorial and how-it-works links collected from Ada digests (append only).
 - https://claude.dev/blog/the-work-after-you-open-a-pr/
 - https://www.youtube.com/watch?v=mU8WKII1gpk
 - https://app.therundown.ai/guides/microsoft-copilot-home-code-autopilot
+- https://www.youtube.com/watch?v=7XjqOspstw4
+- https://app.therundown.ai/guides/google-gemini-tasks-black-friday
